@@ -11,33 +11,47 @@
         <li>Desktop App Development</li>
         <li>Machine Learning and Artificial Intelligence</li>
         <li>Cyber Security and Ethical Hacking</li>
-        
-    </ul>
+     </ul>
 
 
-💻**Programming Skills**
-    * Lanugages:
-      * Python
-      * JavaScript
-      * C/C++
-      * Java
-      * HTML and CSS
-    * Frameworks:
-      * Django and Django REST (Python)
-      * ReactJS (JavaScript)
-      * JQuery (JavaScript)
-      * JavaFX and Swing (Java)
-      * WxWidgets (C++)
-      * Numpy, Pandas, SkikitLearn, Tensorflow (Python)
-      * WebRTC
-      
-🗣**Other Skills**
-    * Public Speaking
-    * Communication
-    * Fitness
-    * Weapon Handling and Combat
-    * Tactics
+<h3>💻<b>Programming Skills</b></h3>
+    <ul>
+        <li>
+            Languages
+            <ul>
+                <li>Python</li>
+                <li>JavaScript</li>
+                <li>Java</li>
+                <li>C/C++</li>
+                <li>HTML and CSS</li>
+            </ul>
+        </li>
+        <li>
+            Frameworks
+            <ul>
+                <li>Django and Django REST (Python)</li>
+                <li>ReactJS (JavaScript)</li>
+                <li>JQuery (JavaScript)</li>
+                <li>JavaFX and Swing (Java)</li>
+                <li>WxWidgets (C++)</li>
+                <li>Numpy, Pandas, SkikitLearn, Tensorflow (Python)</li>
+                <li>WebRTC</li>
+            </ul>
+        </li>
+     </ul>
 
-💼**Job Experience**
-    🪖 Officer Cadet at Bangladesh Military Academy (January 2022 to March 2022)
-    💲 Freelance Web Developer (2020 to 2021)
+<h3>🗣<b>Other Skills</b></h3>
+    <ul>
+        <li>Public Speaking</li>
+        <li>Communication</li>
+        <li>Fitness</li>
+        <li>Weapon Handling and Combat</li>
+        <li>Tactics</li>
+     </ul>
+
+<h3>💼<b>Job Experience</b></h3>
+    <ul>
+        <li>🪖 Officer Cadet at Bangladesh Military Academy (January 2022 to March 2022)</li>
+        <li>💲 Freelance Web Developer (2020 to 2021)</li>
+     </ul>
+    
