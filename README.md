@@ -57,8 +57,8 @@
 
 <h3>🎓<b>Education</b></h3>
     <ul>
-        <li>B.Sc in Computer Science and Engineering <br> <p>North South University (2022-2025) - CGPA-3.37 on a scale of 4</p></li>
-        <li>HSC (Science) <br> <p>Adamjee Cantonment College (2019-2021) - GPA-5</p></li>
-        <li>SSC (Science) <br> <p>Adamjee Cantonment Public School (2017 to 2019) - GPA-5</p></li>
+        <li>B.Sc in Computer Science and Engineering <p>North South University (2022-2025) - CGPA-3.37 on a scale of 4</p></li>
+        <li>HSC (Science) <p>Adamjee Cantonment College (2019-2021) - GPA-5</p></li>
+        <li>SSC (Science) <p>Adamjee Cantonment Public School (2017 to 2019) - GPA-5</p></li>
      </ul>
     
