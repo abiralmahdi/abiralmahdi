@@ -54,4 +54,11 @@
         <li>🪖 Officer Cadet at Bangladesh Military Academy (January 2022 to March 2022)</li>
         <li>💲 Freelance Web Developer (2020 to 2021)</li>
      </ul>
+
+<h3>🎓<b>Education</b></h3>
+    <ul>
+        <li>B.Sc in Computer Science and Engineering <br> <p>North South University (2022-2025)</p></li>
+        <li>HSC (Science) <br> <p>Adamjee Cantonment College (2019-2021)</p></li>
+        <li>SSC (Science) <br> <p>Adamjee Cantonment Public School (2017 to 2019)</p></li>
+     </ul>
     
