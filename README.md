@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 
-📄**About Myself**
+📄<h3>**About Myself**</h3>
 I am an enthusiastic Computer Science and Engineering student at North South University, deeply passionate about software engineering and creating innovative projects. My goal is to excel academically, graduate with outstanding grades, and cultivate a remarkable skillset. I aspire to pursue a career as a software engineer at a top-tier tech company like FAANG, fueled by my dedication to programming and project development.
 
 💡**Areas of Interest**
