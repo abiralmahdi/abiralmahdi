@@ -6,7 +6,7 @@
 
 <h3>💡<b>Areas of Interest</b></h3>
     <ul>
-        <li>Web Development (Frontend and Backend)</li>
+        <li>Fullstack Web Development</li>
         <li> Android App Development</li>
         <li>Desktop App Development</li>
         <li>Machine Learning and Artificial Intelligence</li>
