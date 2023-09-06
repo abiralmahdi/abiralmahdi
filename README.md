@@ -30,6 +30,8 @@
             Frameworks
             <ul>
                 <li>Django and Django REST (Python)</li>
+                <li>Flask (Python)</li>
+                <li>Tkinter and Kivy (Python)</li>
                 <li>ReactJS (JavaScript)</li>
                 <li>JQuery (JavaScript)</li>
                 <li>JavaFX and Swing (Java)</li>
