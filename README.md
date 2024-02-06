@@ -9,8 +9,8 @@
         <li>Fullstack Web Development</li>
         <li> Android App Development</li>
         <li>Desktop App Development</li>
-        <li>Machine Learning and Artificial Intelligence</li>
-        <li>Cyber Security and Ethical Hacking</li>
+        <li>Artificial Intelligence, Machine Learning and Deep Learning</li>
+        <li>Computer Vision</li>
      </ul>
 
 
@@ -35,8 +35,7 @@
                 <li>ReactJS (JavaScript)</li>
                 <li>JQuery (JavaScript)</li>
                 <li>JavaFX and Swing (Java)</li>
-                <li>WxWidgets (C++)</li>
-                <li>Numpy, Pandas, SkikitLearn, Tensorflow (Python)</li>
+                <li>Numpy, Pandas, ScikitLearn, PyTorch, OpenCV (Python)</li>
                 <li>WebRTC</li>
             </ul>
         </li>
