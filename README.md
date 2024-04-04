@@ -37,6 +37,9 @@
                 <li>JavaFX and Swing (Java)</li>
                 <li>Numpy, Pandas, ScikitLearn, PyTorch, OpenCV (Python)</li>
                 <li>WebRTC</li>
+                <li>PyTorch</li>
+                <li>OpenCV</li>
+                <li>Scikit Learn</li>
             </ul>
         </li>
      </ul>
@@ -47,12 +50,11 @@
         <li>Communication</li>
         <li>Fitness</li>
         <li>Weapon Handling and Combat</li>
-        <li>Tactics</li>
      </ul>
 
 <h3>💼<b>Job Experience</b></h3>
     <ul>
-        <li>🪖 Officer Cadet at Bangladesh Military Academy (January 2022 to March 2022)</li>
+        <li>🪖 Former Officer Cadet at Bangladesh Military Academy (January 2022 to March 2022)</li>
         <li>💲 Freelance Web Developer (2020 to 2021)</li>
      </ul>
 
