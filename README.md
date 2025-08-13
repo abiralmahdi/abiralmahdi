@@ -56,6 +56,7 @@
     <ul>
         <li>🪖 Former Officer Cadet at Bangladesh Military Academy (January 2022 to March 2022)</li>
         <li>💲 Freelance Web Developer (2020 to 2021)</li>
+        <li>💲 Software Developer at MARKS Automation Ltd. (2025 and ongoing)</li>
      </ul>
 
 <h3>🎓<b>Education</b></h3>
